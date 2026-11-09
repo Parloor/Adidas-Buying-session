@@ -1,0 +1,3088 @@
+{
+  "adidas-fw25-officiel": {
+    "id": "adidas-fw25-officiel",
+    "title": "Session Officielle Adidas FW25 (Échantillon Standard)",
+    "description": "Session standard de merchandising incluant Samba OG, Spezial, Gazelle, Predator et Textile FW25.",
+    "author": "Adidas Merchandising Central",
+    "createdAt": "2026-10-19T08:31:34.826Z",
+    "currency": "DT",
+    "productCount": 28,
+    "totalSalesValue": 4069029,
+    "totalBuyQty": 51102,
+    "products": [
+      {
+        "id": "prod-001",
+        "sku": "B75806",
+        "name": "SAMBA OG",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Men",
+        "category": "SHOES",
+        "productType": "SHOES - LOW (NON FOOTBALL)",
+        "salesLine": "SAMBA",
+        "color": "Blanc",
+        "ageGroup": "ADULT",
+        "currency": "DT",
+        "imageUrl": "https://i.ibb.co/xK3ykXHy/B75806-16-FOOTWEAR-ZIP-Turntable-3d-1-white.png",
+        "retailPrice": 449,
+        "wholesalePrice": 40.6,
+        "totalBuyQty": 6,
+        "totalBuyValue": 243.6,
+        "totalSalesQty": 6,
+        "totalSalesValue": 2694,
+        "sellThroughRate": 100,
+        "valueSellThroughRate": 1105.9,
+        "stockQty": 0,
+        "stockValue": 0,
+        "grossMarginValue": 2450.4,
+        "grossMarginRate": 91,
+        "sizes": [
+          {
+            "size": "41 1/3",
+            "buyQty": 1,
+            "salesQty": 1,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 16.7,
+            "buyShare": 16.7
+          },
+          {
+            "size": "42",
+            "buyQty": 1,
+            "salesQty": 1,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 16.7,
+            "buyShare": 16.7
+          },
+          {
+            "size": "44",
+            "buyQty": 1,
+            "salesQty": 1,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 16.7,
+            "buyShare": 16.7
+          },
+          {
+            "size": "44 2/3",
+            "buyQty": 2,
+            "salesQty": 2,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 33.2,
+            "buyShare": 33.2
+          },
+          {
+            "size": "45 1/3",
+            "buyQty": 1,
+            "salesQty": 1,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 16.7,
+            "buyShare": 16.7
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Tunis - Mall of Sousse (Flagship)",
+            "buyQty": 3,
+            "salesQty": 3,
+            "salesValue": 1347,
+            "buyValue": 121.8,
+            "sellThroughRate": 100,
+            "stockQty": 0
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Tunis - Tunisia Mall Les Berges",
+            "buyQty": 3,
+            "salesQty": 3,
+            "salesValue": 1347,
+            "buyValue": 121.8,
+            "sellThroughRate": 100,
+            "stockQty": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-001b",
+        "sku": "B75807",
+        "name": "SAMBA OG",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Men",
+        "category": "SHOES",
+        "productType": "SHOES - LOW (NON FOOTBALL)",
+        "salesLine": "SAMBA",
+        "color": "Noir",
+        "ageGroup": "ADULT",
+        "currency": "DT",
+        "imageUrl": "https://i.ibb.co/8gP5d9tM/B75807-16-FOOTWEAR-ZIP-Turntable-3d-1-white.png",
+        "retailPrice": 449,
+        "wholesalePrice": 40.6,
+        "totalBuyQty": 19,
+        "totalBuyValue": 771.4,
+        "totalSalesQty": 19,
+        "totalSalesValue": 8531,
+        "sellThroughRate": 100,
+        "valueSellThroughRate": 1105.9,
+        "stockQty": 0,
+        "stockValue": 0,
+        "grossMarginValue": 7759.6,
+        "grossMarginRate": 91,
+        "sizes": [
+          {
+            "size": "37 1/3",
+            "buyQty": 5,
+            "salesQty": 5,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 26.3,
+            "buyShare": 26.3
+          },
+          {
+            "size": "38",
+            "buyQty": 10,
+            "salesQty": 10,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 52.6,
+            "buyShare": 52.6
+          },
+          {
+            "size": "40 2/3",
+            "buyQty": 3,
+            "salesQty": 3,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 15.8,
+            "buyShare": 15.8
+          },
+          {
+            "size": "46 2/3",
+            "buyQty": 1,
+            "salesQty": 1,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 5.3,
+            "buyShare": 5.3
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Tunis - Mall of Sousse (Flagship)",
+            "buyQty": 10,
+            "salesQty": 10,
+            "salesValue": 4490,
+            "buyValue": 406,
+            "sellThroughRate": 100,
+            "stockQty": 0
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Tunis - Tunisia Mall Les Berges",
+            "buyQty": 9,
+            "salesQty": 9,
+            "salesValue": 4041,
+            "buyValue": 365.4,
+            "sellThroughRate": 100,
+            "stockQty": 0
+          }
+        ]
+      },
+      {
+        "id": "prod-002",
+        "sku": "JI1895",
+        "name": "PREDATOR ELITE FT FG",
+        "division": "Footwear",
+        "sport": "Football",
+        "gender": "Men",
+        "category": "Pro Cleats",
+        "productType": "Firm Ground Cleats",
+        "salesLine": "Predator",
+        "color": "Noir/Rouge",
+        "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 280,
+        "wholesalePrice": 135,
+        "totalBuyQty": 1850,
+        "totalBuyValue": 249750,
+        "totalSalesQty": 1591,
+        "totalSalesValue": 445480,
+        "sellThroughRate": 86,
+        "valueSellThroughRate": 178.4,
+        "stockQty": 259,
+        "stockValue": 34965,
+        "grossMarginValue": 230695,
+        "grossMarginRate": 51.8,
+        "sizes": [
+          {
+            "size": "40",
+            "buyQty": 150,
+            "salesQty": 130,
+            "sellThroughRate": 86.7,
+            "stockQty": 20,
+            "salesShare": 8.2,
+            "buyShare": 8.1
+          },
+          {
+            "size": "40 2/3",
+            "buyQty": 240,
+            "salesQty": 220,
+            "sellThroughRate": 91.7,
+            "stockQty": 20,
+            "salesShare": 13.8,
+            "buyShare": 13
+          },
+          {
+            "size": "41 1/3",
+            "buyQty": 350,
+            "salesQty": 325,
+            "sellThroughRate": 92.9,
+            "stockQty": 25,
+            "salesShare": 20.4,
+            "buyShare": 18.9
+          },
+          {
+            "size": "42",
+            "buyQty": 400,
+            "salesQty": 368,
+            "sellThroughRate": 92,
+            "stockQty": 32,
+            "salesShare": 23.1,
+            "buyShare": 21.6
+          },
+          {
+            "size": "42 2/3",
+            "buyQty": 320,
+            "salesQty": 275,
+            "sellThroughRate": 85.9,
+            "stockQty": 45,
+            "salesShare": 17.3,
+            "buyShare": 17.3
+          },
+          {
+            "size": "43 1/3",
+            "buyQty": 230,
+            "salesQty": 175,
+            "sellThroughRate": 76.1,
+            "stockQty": 55,
+            "salesShare": 11,
+            "buyShare": 12.4
+          },
+          {
+            "size": "44",
+            "buyQty": 160,
+            "salesQty": 98,
+            "sellThroughRate": 61.3,
+            "stockQty": 62,
+            "salesShare": 6.2,
+            "buyShare": 8.6
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 450,
+            "salesQty": 410,
+            "salesValue": 114800,
+            "buyValue": 60750,
+            "sellThroughRate": 91.1,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 380,
+            "salesQty": 340,
+            "salesValue": 95200,
+            "buyValue": 51300,
+            "sellThroughRate": 89.5,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 240,
+            "salesQty": 205,
+            "salesValue": 57400,
+            "buyValue": 32400,
+            "sellThroughRate": 85.4,
+            "stockQty": 35
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 300,
+            "salesQty": 268,
+            "salesValue": 75040,
+            "buyValue": 40500,
+            "sellThroughRate": 89.3,
+            "stockQty": 32
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 180,
+            "salesQty": 140,
+            "salesValue": 39200,
+            "buyValue": 24300,
+            "sellThroughRate": 77.8,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 150,
+            "salesQty": 118,
+            "salesValue": 33040,
+            "buyValue": 20250,
+            "sellThroughRate": 78.7,
+            "stockQty": 32
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 150,
+            "salesQty": 110,
+            "salesValue": 30800,
+            "buyValue": 20250,
+            "sellThroughRate": 73.3,
+            "stockQty": 40
+          }
+        ]
+      },
+      {
+        "id": "prod-003",
+        "sku": "IE2946",
+        "name": "GAZELLE INDOOR",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Women",
+        "ageGroup": "ADULT",
+        "category": "Terrace & Classics",
+        "productType": "Low Cut Sneakers",
+        "salesLine": "Gazelle",
+        "color": "Bleu",
+        "imageUrl": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 120,
+        "wholesalePrice": 53,
+        "totalBuyQty": 3200,
+        "totalBuyValue": 169600,
+        "totalSalesQty": 2880,
+        "totalSalesValue": 345600,
+        "sellThroughRate": 90,
+        "valueSellThroughRate": 203.8,
+        "stockQty": 320,
+        "stockValue": 16960,
+        "grossMarginValue": 192960,
+        "grossMarginRate": 55.8,
+        "sizes": [
+          {
+            "size": "36",
+            "buyQty": 280,
+            "salesQty": 250,
+            "sellThroughRate": 89.3,
+            "stockQty": 30,
+            "salesShare": 8.7,
+            "buyShare": 8.8
+          },
+          {
+            "size": "37 1/3",
+            "buyQty": 450,
+            "salesQty": 425,
+            "sellThroughRate": 94.4,
+            "stockQty": 25,
+            "salesShare": 14.8,
+            "buyShare": 14.1
+          },
+          {
+            "size": "38",
+            "buyQty": 750,
+            "salesQty": 710,
+            "sellThroughRate": 94.7,
+            "stockQty": 40,
+            "salesShare": 24.7,
+            "buyShare": 23.4
+          },
+          {
+            "size": "38 2/3",
+            "buyQty": 680,
+            "salesQty": 640,
+            "sellThroughRate": 94.1,
+            "stockQty": 40,
+            "salesShare": 22.2,
+            "buyShare": 21.3
+          },
+          {
+            "size": "39 1/3",
+            "buyQty": 520,
+            "salesQty": 480,
+            "sellThroughRate": 92.3,
+            "stockQty": 40,
+            "salesShare": 16.7,
+            "buyShare": 16.3
+          },
+          {
+            "size": "40",
+            "buyQty": 320,
+            "salesQty": 260,
+            "sellThroughRate": 81.3,
+            "stockQty": 60,
+            "salesShare": 9,
+            "buyShare": 10
+          },
+          {
+            "size": "41 1/3",
+            "buyQty": 200,
+            "salesQty": 115,
+            "sellThroughRate": 57.5,
+            "stockQty": 85,
+            "salesShare": 4,
+            "buyShare": 6.3
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 850,
+            "salesQty": 790,
+            "salesValue": 94800,
+            "buyValue": 45050,
+            "sellThroughRate": 92.9,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 750,
+            "salesQty": 690,
+            "salesValue": 82800,
+            "buyValue": 39750,
+            "sellThroughRate": 92,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 400,
+            "salesQty": 350,
+            "salesValue": 42000,
+            "buyValue": 21200,
+            "sellThroughRate": 87.5,
+            "stockQty": 50
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 320,
+            "salesQty": 280,
+            "salesValue": 33600,
+            "buyValue": 16960,
+            "sellThroughRate": 87.5,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 280,
+            "salesQty": 245,
+            "salesValue": 29400,
+            "buyValue": 14840,
+            "sellThroughRate": 87.5,
+            "stockQty": 35
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 250,
+            "salesQty": 225,
+            "salesValue": 27000,
+            "buyValue": 13250,
+            "sellThroughRate": 90,
+            "stockQty": 25
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 350,
+            "salesQty": 300,
+            "salesValue": 36000,
+            "buyValue": 18550,
+            "sellThroughRate": 85.7,
+            "stockQty": 50
+          }
+        ]
+      },
+      {
+        "id": "prod-004",
+        "sku": "IH8567",
+        "name": "ADIZERO ADIOS PRO 3",
+        "division": "Footwear",
+        "sport": "Running",
+        "gender": "Unisex",
+        "category": "Road Racing",
+        "productType": "Carbon Super Shoes",
+        "salesLine": "Adizero",
+        "color": "Blanc/Orange",
+        "imageUrl": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 250,
+        "wholesalePrice": 120,
+        "totalBuyQty": 1400,
+        "totalBuyValue": 168000,
+        "totalSalesQty": 1148,
+        "totalSalesValue": 287000,
+        "sellThroughRate": 82,
+        "valueSellThroughRate": 170.8,
+        "stockQty": 252,
+        "stockValue": 30240,
+        "grossMarginValue": 149240,
+        "grossMarginRate": 52,
+        "sizes": [
+          {
+            "size": "40",
+            "buyQty": 120,
+            "salesQty": 95,
+            "sellThroughRate": 79.2,
+            "stockQty": 25,
+            "salesShare": 8.3,
+            "buyShare": 8.6
+          },
+          {
+            "size": "41 1/3",
+            "buyQty": 260,
+            "salesQty": 230,
+            "sellThroughRate": 88.5,
+            "stockQty": 30,
+            "salesShare": 20,
+            "buyShare": 18.6
+          },
+          {
+            "size": "42",
+            "buyQty": 350,
+            "salesQty": 310,
+            "sellThroughRate": 88.6,
+            "stockQty": 40,
+            "salesShare": 27,
+            "buyShare": 25
+          },
+          {
+            "size": "42 2/3",
+            "buyQty": 280,
+            "salesQty": 245,
+            "sellThroughRate": 87.5,
+            "stockQty": 35,
+            "salesShare": 21.3,
+            "buyShare": 20
+          },
+          {
+            "size": "43 1/3",
+            "buyQty": 210,
+            "salesQty": 160,
+            "sellThroughRate": 76.2,
+            "stockQty": 50,
+            "salesShare": 13.9,
+            "buyShare": 15
+          },
+          {
+            "size": "44",
+            "buyQty": 180,
+            "salesQty": 108,
+            "sellThroughRate": 60,
+            "stockQty": 72,
+            "salesShare": 9.4,
+            "buyShare": 12.9
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 400,
+            "salesQty": 350,
+            "salesValue": 87500,
+            "buyValue": 48000,
+            "sellThroughRate": 87.5,
+            "stockQty": 50
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 280,
+            "salesQty": 235,
+            "salesValue": 58750,
+            "buyValue": 33600,
+            "sellThroughRate": 83.9,
+            "stockQty": 45
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 180,
+            "salesQty": 145,
+            "salesValue": 36250,
+            "buyValue": 21600,
+            "sellThroughRate": 80.6,
+            "stockQty": 35
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 140,
+            "salesQty": 105,
+            "salesValue": 26250,
+            "buyValue": 16800,
+            "sellThroughRate": 75,
+            "stockQty": 35
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 120,
+            "salesQty": 92,
+            "salesValue": 23000,
+            "buyValue": 14400,
+            "sellThroughRate": 76.7,
+            "stockQty": 28
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 100,
+            "salesQty": 81,
+            "salesValue": 20250,
+            "buyValue": 12000,
+            "sellThroughRate": 81,
+            "stockQty": 19
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 180,
+            "salesQty": 140,
+            "salesValue": 35000,
+            "buyValue": 21600,
+            "sellThroughRate": 77.8,
+            "stockQty": 40
+          }
+        ]
+      },
+      {
+        "id": "prod-005",
+        "sku": "IN9382",
+        "name": "TIRO 24 TRAINING PANTS",
+        "division": "Apparel",
+        "sport": "Football",
+        "gender": "Men",
+        "category": "Training Apparel",
+        "productType": "Training Pants",
+        "salesLine": "Tiro",
+        "color": "Noir",
+        "imageUrl": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 55,
+        "wholesalePrice": 22,
+        "totalBuyQty": 5500,
+        "totalBuyValue": 121000,
+        "totalSalesQty": 4620,
+        "totalSalesValue": 254100,
+        "sellThroughRate": 84,
+        "valueSellThroughRate": 210,
+        "stockQty": 880,
+        "stockValue": 19360,
+        "grossMarginValue": 152460,
+        "grossMarginRate": 60,
+        "sizes": [
+          {
+            "size": "XS",
+            "buyQty": 350,
+            "salesQty": 260,
+            "sellThroughRate": 74.3,
+            "stockQty": 90,
+            "salesShare": 5.6,
+            "buyShare": 6.4
+          },
+          {
+            "size": "S",
+            "buyQty": 1200,
+            "salesQty": 1050,
+            "sellThroughRate": 87.5,
+            "stockQty": 150,
+            "salesShare": 22.7,
+            "buyShare": 21.8
+          },
+          {
+            "size": "M",
+            "buyQty": 1800,
+            "salesQty": 1620,
+            "sellThroughRate": 90,
+            "stockQty": 180,
+            "salesShare": 35.1,
+            "buyShare": 32.7
+          },
+          {
+            "size": "L",
+            "buyQty": 1400,
+            "salesQty": 1210,
+            "sellThroughRate": 86.4,
+            "stockQty": 190,
+            "salesShare": 26.2,
+            "buyShare": 25.5
+          },
+          {
+            "size": "XL",
+            "buyQty": 600,
+            "salesQty": 410,
+            "sellThroughRate": 68.3,
+            "stockQty": 190,
+            "salesShare": 8.9,
+            "buyShare": 10.9
+          },
+          {
+            "size": "2XL",
+            "buyQty": 150,
+            "salesQty": 70,
+            "sellThroughRate": 46.7,
+            "stockQty": 80,
+            "salesShare": 1.5,
+            "buyShare": 2.7
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 1300,
+            "salesQty": 1150,
+            "salesValue": 63250,
+            "buyValue": 28600,
+            "sellThroughRate": 88.5,
+            "stockQty": 150
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 1100,
+            "salesQty": 970,
+            "salesValue": 53350,
+            "buyValue": 24200,
+            "sellThroughRate": 88.2,
+            "stockQty": 130
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 800,
+            "salesQty": 680,
+            "salesValue": 37400,
+            "buyValue": 17600,
+            "sellThroughRate": 85,
+            "stockQty": 120
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 850,
+            "salesQty": 730,
+            "salesValue": 40150,
+            "buyValue": 18700,
+            "sellThroughRate": 85.9,
+            "stockQty": 120
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 550,
+            "salesQty": 430,
+            "salesValue": 23650,
+            "buyValue": 12100,
+            "sellThroughRate": 78.2,
+            "stockQty": 120
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 400,
+            "salesQty": 320,
+            "salesValue": 17600,
+            "buyValue": 8800,
+            "sellThroughRate": 80,
+            "stockQty": 80
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 500,
+            "salesQty": 340,
+            "salesValue": 18700,
+            "buyValue": 11000,
+            "sellThroughRate": 68,
+            "stockQty": 160
+          }
+        ]
+      },
+      {
+        "id": "prod-006",
+        "sku": "IT2891",
+        "name": "FIREBIRD TRACK TOP ORIGINALS",
+        "division": "Apparel",
+        "sport": "Originals",
+        "gender": "Unisex",
+        "category": "Lifestyle Apparel",
+        "productType": "Track Tops",
+        "salesLine": "Firebird",
+        "color": "Bleu Marine",
+        "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 85,
+        "wholesalePrice": 36,
+        "totalBuyQty": 2600,
+        "totalBuyValue": 93600,
+        "totalSalesQty": 2262,
+        "totalSalesValue": 192270,
+        "sellThroughRate": 87,
+        "valueSellThroughRate": 205.4,
+        "stockQty": 338,
+        "stockValue": 12168,
+        "grossMarginValue": 110838,
+        "grossMarginRate": 57.6,
+        "sizes": [
+          {
+            "size": "XS",
+            "buyQty": 250,
+            "salesQty": 215,
+            "sellThroughRate": 86,
+            "stockQty": 35,
+            "salesShare": 9.5,
+            "buyShare": 9.6
+          },
+          {
+            "size": "S",
+            "buyQty": 650,
+            "salesQty": 610,
+            "sellThroughRate": 93.8,
+            "stockQty": 40,
+            "salesShare": 27,
+            "buyShare": 25
+          },
+          {
+            "size": "M",
+            "buyQty": 850,
+            "salesQty": 780,
+            "sellThroughRate": 91.8,
+            "stockQty": 70,
+            "salesShare": 34.5,
+            "buyShare": 32.7
+          },
+          {
+            "size": "L",
+            "buyQty": 600,
+            "salesQty": 510,
+            "sellThroughRate": 85,
+            "stockQty": 90,
+            "salesShare": 22.5,
+            "buyShare": 23.1
+          },
+          {
+            "size": "XL",
+            "buyQty": 250,
+            "salesQty": 147,
+            "sellThroughRate": 58.8,
+            "stockQty": 103,
+            "salesShare": 6.5,
+            "buyShare": 9.6
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 700,
+            "salesQty": 635,
+            "salesValue": 53975,
+            "buyValue": 25200,
+            "sellThroughRate": 90.7,
+            "stockQty": 65
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 600,
+            "salesQty": 540,
+            "salesValue": 45900,
+            "buyValue": 21600,
+            "sellThroughRate": 90,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 350,
+            "salesQty": 300,
+            "salesValue": 25500,
+            "buyValue": 12600,
+            "sellThroughRate": 85.7,
+            "stockQty": 50
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 300,
+            "salesQty": 260,
+            "salesValue": 22100,
+            "buyValue": 10800,
+            "sellThroughRate": 86.7,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 250,
+            "salesQty": 210,
+            "salesValue": 17850,
+            "buyValue": 9000,
+            "sellThroughRate": 84,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 200,
+            "salesQty": 167,
+            "salesValue": 14195,
+            "buyValue": 7200,
+            "sellThroughRate": 83.5,
+            "stockQty": 33
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 200,
+            "salesQty": 150,
+            "salesValue": 12750,
+            "buyValue": 7200,
+            "sellThroughRate": 75,
+            "stockQty": 50
+          }
+        ]
+      },
+      {
+        "id": "prod-007",
+        "sku": "IY7921",
+        "name": "REAL MADRID 24/25 HOME JERSEY",
+        "division": "Apparel",
+        "sport": "Football",
+        "gender": "Men",
+        "category": "Club Licensed",
+        "productType": "Match Jerseys",
+        "salesLine": "Federation & Clubs",
+        "color": "Blanc",
+        "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 100,
+        "wholesalePrice": 44,
+        "totalBuyQty": 3800,
+        "totalBuyValue": 167200,
+        "totalSalesQty": 3534,
+        "totalSalesValue": 353400,
+        "sellThroughRate": 93,
+        "valueSellThroughRate": 211.4,
+        "stockQty": 266,
+        "stockValue": 11704,
+        "grossMarginValue": 197904,
+        "grossMarginRate": 56,
+        "sizes": [
+          {
+            "size": "S",
+            "buyQty": 750,
+            "salesQty": 710,
+            "sellThroughRate": 94.7,
+            "stockQty": 40,
+            "salesShare": 20.1,
+            "buyShare": 19.7
+          },
+          {
+            "size": "M",
+            "buyQty": 1400,
+            "salesQty": 1350,
+            "sellThroughRate": 96.4,
+            "stockQty": 50,
+            "salesShare": 38.2,
+            "buyShare": 36.8
+          },
+          {
+            "size": "L",
+            "buyQty": 1100,
+            "salesQty": 1030,
+            "sellThroughRate": 93.6,
+            "stockQty": 70,
+            "salesShare": 29.1,
+            "buyShare": 28.9
+          },
+          {
+            "size": "XL",
+            "buyQty": 450,
+            "salesQty": 380,
+            "sellThroughRate": 84.4,
+            "stockQty": 70,
+            "salesShare": 10.8,
+            "buyShare": 11.8
+          },
+          {
+            "size": "2XL",
+            "buyQty": 100,
+            "salesQty": 64,
+            "sellThroughRate": 64,
+            "stockQty": 36,
+            "salesShare": 1.8,
+            "buyShare": 2.6
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 1200,
+            "salesQty": 1140,
+            "salesValue": 114000,
+            "buyValue": 52800,
+            "sellThroughRate": 95,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 900,
+            "salesQty": 850,
+            "salesValue": 85000,
+            "buyValue": 39600,
+            "sellThroughRate": 94.4,
+            "stockQty": 50
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 450,
+            "salesQty": 410,
+            "salesValue": 41000,
+            "buyValue": 19800,
+            "sellThroughRate": 91.1,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 450,
+            "salesQty": 405,
+            "salesValue": 40500,
+            "buyValue": 19800,
+            "sellThroughRate": 90,
+            "stockQty": 45
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 300,
+            "salesQty": 275,
+            "salesValue": 27500,
+            "buyValue": 13200,
+            "sellThroughRate": 91.7,
+            "stockQty": 25
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 250,
+            "salesQty": 228,
+            "salesValue": 22800,
+            "buyValue": 11000,
+            "sellThroughRate": 91.2,
+            "stockQty": 22
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 250,
+            "salesQty": 226,
+            "salesValue": 22600,
+            "buyValue": 11000,
+            "sellThroughRate": 90.4,
+            "stockQty": 24
+          }
+        ]
+      },
+      {
+        "id": "prod-008",
+        "sku": "IG1090",
+        "name": "TERREX FREE HIKER 2 GORE-TEX",
+        "division": "Footwear",
+        "sport": "Outdoor",
+        "gender": "Men",
+        "category": "Trail & Hike",
+        "productType": "Hiking Boots",
+        "salesLine": "Terrex",
+        "color": "Kaki",
+        "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 220,
+        "wholesalePrice": 102,
+        "totalBuyQty": 1100,
+        "totalBuyValue": 112200,
+        "totalSalesQty": 847,
+        "totalSalesValue": 186340,
+        "sellThroughRate": 77,
+        "valueSellThroughRate": 166.1,
+        "stockQty": 253,
+        "stockValue": 25806,
+        "grossMarginValue": 99946,
+        "grossMarginRate": 53.6,
+        "sizes": [
+          {
+            "size": "41 1/3",
+            "buyQty": 200,
+            "salesQty": 165,
+            "sellThroughRate": 82.5,
+            "stockQty": 35,
+            "salesShare": 19.5,
+            "buyShare": 18.2
+          },
+          {
+            "size": "42",
+            "buyQty": 320,
+            "salesQty": 260,
+            "sellThroughRate": 81.3,
+            "stockQty": 60,
+            "salesShare": 30.7,
+            "buyShare": 29.1
+          },
+          {
+            "size": "42 2/3",
+            "buyQty": 250,
+            "salesQty": 205,
+            "sellThroughRate": 82,
+            "stockQty": 45,
+            "salesShare": 24.2,
+            "buyShare": 22.7
+          },
+          {
+            "size": "43 1/3",
+            "buyQty": 180,
+            "salesQty": 130,
+            "sellThroughRate": 72.2,
+            "stockQty": 50,
+            "salesShare": 15.3,
+            "buyShare": 16.4
+          },
+          {
+            "size": "44",
+            "buyQty": 150,
+            "salesQty": 87,
+            "sellThroughRate": 58,
+            "stockQty": 63,
+            "salesShare": 10.3,
+            "buyShare": 13.6
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 280,
+            "salesQty": 230,
+            "salesValue": 50600,
+            "buyValue": 28560,
+            "sellThroughRate": 82.1,
+            "stockQty": 50
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 220,
+            "salesQty": 175,
+            "salesValue": 38500,
+            "buyValue": 22440,
+            "sellThroughRate": 79.5,
+            "stockQty": 45
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 200,
+            "salesQty": 165,
+            "salesValue": 36300,
+            "buyValue": 20400,
+            "sellThroughRate": 82.5,
+            "stockQty": 35
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 120,
+            "salesQty": 80,
+            "salesValue": 17600,
+            "buyValue": 12240,
+            "sellThroughRate": 66.7,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 100,
+            "salesQty": 72,
+            "salesValue": 15840,
+            "buyValue": 10200,
+            "sellThroughRate": 72,
+            "stockQty": 28
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 90,
+            "salesQty": 65,
+            "salesValue": 14300,
+            "buyValue": 9180,
+            "sellThroughRate": 72.2,
+            "stockQty": 25
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 90,
+            "salesQty": 60,
+            "salesValue": 13200,
+            "buyValue": 9180,
+            "sellThroughRate": 66.7,
+            "stockQty": 30
+          }
+        ]
+      },
+      {
+        "id": "prod-009",
+        "sku": "IR6823",
+        "name": "ADIDAS Z.N.E. FULL-ZIP HOODIE",
+        "division": "Apparel",
+        "sport": "Training",
+        "gender": "Unisex",
+        "category": "Athletics & Training",
+        "productType": "Hoodies & Sweatshirts",
+        "salesLine": "Z.N.E.",
+        "color": "Blanc/Gris",
+        "imageUrl": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 110,
+        "wholesalePrice": 48,
+        "totalBuyQty": 2200,
+        "totalBuyValue": 105600,
+        "totalSalesQty": 1848,
+        "totalSalesValue": 203280,
+        "sellThroughRate": 84,
+        "valueSellThroughRate": 192.5,
+        "stockQty": 352,
+        "stockValue": 16896,
+        "grossMarginValue": 114576,
+        "grossMarginRate": 56.4,
+        "sizes": [
+          {
+            "size": "XS",
+            "buyQty": 200,
+            "salesQty": 165,
+            "sellThroughRate": 82.5,
+            "stockQty": 35,
+            "salesShare": 8.9,
+            "buyShare": 9.1
+          },
+          {
+            "size": "S",
+            "buyQty": 550,
+            "salesQty": 490,
+            "sellThroughRate": 89.1,
+            "stockQty": 60,
+            "salesShare": 26.5,
+            "buyShare": 25
+          },
+          {
+            "size": "M",
+            "buyQty": 750,
+            "salesQty": 660,
+            "sellThroughRate": 88,
+            "stockQty": 90,
+            "salesShare": 35.7,
+            "buyShare": 34.1
+          },
+          {
+            "size": "L",
+            "buyQty": 500,
+            "salesQty": 420,
+            "sellThroughRate": 84,
+            "stockQty": 80,
+            "salesShare": 22.7,
+            "buyShare": 22.7
+          },
+          {
+            "size": "XL",
+            "buyQty": 200,
+            "salesQty": 113,
+            "sellThroughRate": 56.5,
+            "stockQty": 87,
+            "salesShare": 6.2,
+            "buyShare": 9.1
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 600,
+            "salesQty": 530,
+            "salesValue": 58300,
+            "buyValue": 28800,
+            "sellThroughRate": 88.3,
+            "stockQty": 70
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 500,
+            "salesQty": 440,
+            "salesValue": 48400,
+            "buyValue": 24000,
+            "sellThroughRate": 88,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 320,
+            "salesQty": 270,
+            "salesValue": 29700,
+            "buyValue": 15360,
+            "sellThroughRate": 84.4,
+            "stockQty": 50
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 280,
+            "salesQty": 225,
+            "salesValue": 24750,
+            "buyValue": 13440,
+            "sellThroughRate": 80.4,
+            "stockQty": 55
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 220,
+            "salesQty": 180,
+            "salesValue": 19800,
+            "buyValue": 10560,
+            "sellThroughRate": 81.8,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 150,
+            "salesQty": 123,
+            "salesValue": 13530,
+            "buyValue": 7200,
+            "sellThroughRate": 82,
+            "stockQty": 27
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 130,
+            "salesQty": 80,
+            "salesValue": 8800,
+            "buyValue": 6240,
+            "sellThroughRate": 61.5,
+            "stockQty": 50
+          }
+        ]
+      },
+      {
+        "id": "prod-010",
+        "sku": "IF3241",
+        "name": "AE 1 \"ANTHONY EDWARDS\"",
+        "division": "Footwear",
+        "sport": "Basketball",
+        "gender": "Men",
+        "category": "Signature On-Court",
+        "productType": "Mid Cut Basketball Shoes",
+        "salesLine": "Anthony Edwards",
+        "color": "Rose",
+        "imageUrl": "https://images.unsplash.com/photo-1579338559194-a162d19bf842?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 130,
+        "wholesalePrice": 58,
+        "totalBuyQty": 1600,
+        "totalBuyValue": 92800,
+        "totalSalesQty": 1472,
+        "totalSalesValue": 191360,
+        "sellThroughRate": 92,
+        "valueSellThroughRate": 206.2,
+        "stockQty": 128,
+        "stockValue": 7424,
+        "grossMarginValue": 105984,
+        "grossMarginRate": 55.4,
+        "sizes": [
+          {
+            "size": "41 1/3",
+            "buyQty": 220,
+            "salesQty": 210,
+            "sellThroughRate": 95.5,
+            "stockQty": 10,
+            "salesShare": 14.3,
+            "buyShare": 13.8
+          },
+          {
+            "size": "42",
+            "buyQty": 380,
+            "salesQty": 365,
+            "sellThroughRate": 96.1,
+            "stockQty": 15,
+            "salesShare": 24.8,
+            "buyShare": 23.8
+          },
+          {
+            "size": "42 2/3",
+            "buyQty": 350,
+            "salesQty": 335,
+            "sellThroughRate": 95.7,
+            "stockQty": 15,
+            "salesShare": 22.8,
+            "buyShare": 21.9
+          },
+          {
+            "size": "43 1/3",
+            "buyQty": 300,
+            "salesQty": 275,
+            "sellThroughRate": 91.7,
+            "stockQty": 25,
+            "salesShare": 18.7,
+            "buyShare": 18.8
+          },
+          {
+            "size": "44",
+            "buyQty": 220,
+            "salesQty": 192,
+            "sellThroughRate": 87.3,
+            "stockQty": 28,
+            "salesShare": 13,
+            "buyShare": 13.8
+          },
+          {
+            "size": "45 1/3",
+            "buyQty": 130,
+            "salesQty": 95,
+            "sellThroughRate": 73.1,
+            "stockQty": 35,
+            "salesShare": 6.4,
+            "buyShare": 8.1
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 480,
+            "salesQty": 460,
+            "salesValue": 59800,
+            "buyValue": 27840,
+            "sellThroughRate": 95.8,
+            "stockQty": 20
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 420,
+            "salesQty": 400,
+            "salesValue": 52000,
+            "buyValue": 24360,
+            "sellThroughRate": 95.2,
+            "stockQty": 20
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 220,
+            "salesQty": 198,
+            "salesValue": 25740,
+            "buyValue": 12760,
+            "sellThroughRate": 90,
+            "stockQty": 22
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 200,
+            "salesQty": 178,
+            "salesValue": 23140,
+            "buyValue": 11600,
+            "sellThroughRate": 89,
+            "stockQty": 22
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 120,
+            "salesQty": 105,
+            "salesValue": 13650,
+            "buyValue": 6960,
+            "sellThroughRate": 87.5,
+            "stockQty": 15
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 90,
+            "salesQty": 75,
+            "salesValue": 9750,
+            "buyValue": 5220,
+            "sellThroughRate": 83.3,
+            "stockQty": 15
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 70,
+            "salesQty": 56,
+            "salesValue": 7280,
+            "buyValue": 4060,
+            "sellThroughRate": 80,
+            "stockQty": 14
+          }
+        ]
+      },
+      {
+        "id": "prod-011",
+        "sku": "HT4738",
+        "name": "4ATHLTS BACKPACK MEDIUM",
+        "division": "Accessories",
+        "sport": "Training",
+        "gender": "Unisex",
+        "category": "Gear & Bags",
+        "productType": "Backpacks",
+        "salesLine": "4Athlts",
+        "color": "Noir",
+        "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 45,
+        "wholesalePrice": 18,
+        "totalBuyQty": 2800,
+        "totalBuyValue": 50400,
+        "totalSalesQty": 2324,
+        "totalSalesValue": 104580,
+        "sellThroughRate": 83,
+        "valueSellThroughRate": 207.5,
+        "stockQty": 476,
+        "stockValue": 8568,
+        "grossMarginValue": 62748,
+        "grossMarginRate": 60,
+        "sizes": [
+          {
+            "size": "Unique / NS",
+            "buyQty": 2800,
+            "salesQty": 2324,
+            "sellThroughRate": 83,
+            "stockQty": 476,
+            "salesShare": 100,
+            "buyShare": 100
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 700,
+            "salesQty": 610,
+            "salesValue": 27450,
+            "buyValue": 12600,
+            "sellThroughRate": 87.1,
+            "stockQty": 90
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 600,
+            "salesQty": 520,
+            "salesValue": 23400,
+            "buyValue": 10800,
+            "sellThroughRate": 86.7,
+            "stockQty": 80
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 450,
+            "salesQty": 370,
+            "salesValue": 16650,
+            "buyValue": 8100,
+            "sellThroughRate": 82.2,
+            "stockQty": 80
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 400,
+            "salesQty": 320,
+            "salesValue": 14400,
+            "buyValue": 7200,
+            "sellThroughRate": 80,
+            "stockQty": 80
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 250,
+            "salesQty": 200,
+            "salesValue": 9000,
+            "buyValue": 4500,
+            "sellThroughRate": 80,
+            "stockQty": 50
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 200,
+            "salesQty": 154,
+            "salesValue": 6930,
+            "buyValue": 3600,
+            "sellThroughRate": 77,
+            "stockQty": 46
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 200,
+            "salesQty": 150,
+            "salesValue": 6750,
+            "buyValue": 3600,
+            "sellThroughRate": 75,
+            "stockQty": 50
+          }
+        ]
+      },
+      {
+        "id": "prod-012",
+        "sku": "DZ9385",
+        "name": "CUSHIONED CREW SOCKS 3-PACK",
+        "division": "Accessories",
+        "sport": "Originals",
+        "gender": "Unisex",
+        "category": "Socks & Smalls",
+        "productType": "Crew Socks",
+        "salesLine": "Adicolor Essentials",
+        "color": "Blanc",
+        "imageUrl": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 18,
+        "wholesalePrice": 6.5,
+        "totalBuyQty": 6000,
+        "totalBuyValue": 39000,
+        "totalSalesQty": 5460,
+        "totalSalesValue": 98280,
+        "sellThroughRate": 91,
+        "valueSellThroughRate": 252,
+        "stockQty": 540,
+        "stockValue": 3510,
+        "grossMarginValue": 62790,
+        "grossMarginRate": 63.9,
+        "sizes": [
+          {
+            "size": "S (35-38)",
+            "buyQty": 1400,
+            "salesQty": 1260,
+            "sellThroughRate": 90,
+            "stockQty": 140,
+            "salesShare": 23.1,
+            "buyShare": 23.3
+          },
+          {
+            "size": "M (39-42)",
+            "buyQty": 2800,
+            "salesQty": 2620,
+            "sellThroughRate": 93.6,
+            "stockQty": 180,
+            "salesShare": 48,
+            "buyShare": 46.7
+          },
+          {
+            "size": "L (43-46)",
+            "buyQty": 1800,
+            "salesQty": 1580,
+            "sellThroughRate": 87.8,
+            "stockQty": 220,
+            "salesShare": 28.9,
+            "buyShare": 30
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 1600,
+            "salesQty": 1510,
+            "salesValue": 27180,
+            "buyValue": 10400,
+            "sellThroughRate": 94.4,
+            "stockQty": 90
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 1300,
+            "salesQty": 1220,
+            "salesValue": 21960,
+            "buyValue": 8450,
+            "sellThroughRate": 93.8,
+            "stockQty": 80
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 900,
+            "salesQty": 810,
+            "salesValue": 14580,
+            "buyValue": 5850,
+            "sellThroughRate": 90,
+            "stockQty": 90
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 800,
+            "salesQty": 710,
+            "salesValue": 12780,
+            "buyValue": 5200,
+            "sellThroughRate": 88.8,
+            "stockQty": 90
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 500,
+            "salesQty": 440,
+            "salesValue": 7920,
+            "buyValue": 3250,
+            "sellThroughRate": 88,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 450,
+            "salesQty": 390,
+            "salesValue": 7020,
+            "buyValue": 2925,
+            "sellThroughRate": 86.7,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 450,
+            "salesQty": 380,
+            "salesValue": 6840,
+            "buyValue": 2925,
+            "sellThroughRate": 84.4,
+            "stockQty": 70
+          }
+        ]
+      },
+      {
+        "id": "prod-013",
+        "sku": "JH9012",
+        "name": "ULTRABOOST LIGHT RUNNING",
+        "division": "Footwear",
+        "sport": "Running",
+        "gender": "Women",
+        "category": "Cushioning Shoes",
+        "productType": "Performance Running",
+        "salesLine": "Ultraboost",
+        "color": "Noir/Blanc",
+        "imageUrl": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 190,
+        "wholesalePrice": 85,
+        "totalBuyQty": 1900,
+        "totalBuyValue": 161500,
+        "totalSalesQty": 1311,
+        "totalSalesValue": 249090,
+        "sellThroughRate": 69,
+        "valueSellThroughRate": 154.2,
+        "stockQty": 589,
+        "stockValue": 50065,
+        "grossMarginValue": 137655,
+        "grossMarginRate": 55.3,
+        "sizes": [
+          {
+            "size": "36",
+            "buyQty": 180,
+            "salesQty": 110,
+            "sellThroughRate": 61.1,
+            "stockQty": 70,
+            "salesShare": 8.4,
+            "buyShare": 9.5
+          },
+          {
+            "size": "37 1/3",
+            "buyQty": 320,
+            "salesQty": 240,
+            "sellThroughRate": 75,
+            "stockQty": 80,
+            "salesShare": 18.3,
+            "buyShare": 16.8
+          },
+          {
+            "size": "38",
+            "buyQty": 550,
+            "salesQty": 420,
+            "sellThroughRate": 76.4,
+            "stockQty": 130,
+            "salesShare": 32,
+            "buyShare": 28.9
+          },
+          {
+            "size": "38 2/3",
+            "buyQty": 420,
+            "salesQty": 310,
+            "sellThroughRate": 73.8,
+            "stockQty": 110,
+            "salesShare": 23.6,
+            "buyShare": 22.1
+          },
+          {
+            "size": "39 1/3",
+            "buyQty": 280,
+            "salesQty": 160,
+            "sellThroughRate": 57.1,
+            "stockQty": 120,
+            "salesShare": 12.2,
+            "buyShare": 14.7
+          },
+          {
+            "size": "40",
+            "buyQty": 150,
+            "salesQty": 71,
+            "sellThroughRate": 47.3,
+            "stockQty": 79,
+            "salesShare": 5.4,
+            "buyShare": 7.9
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 500,
+            "salesQty": 375,
+            "salesValue": 71250,
+            "buyValue": 42500,
+            "sellThroughRate": 75,
+            "stockQty": 125
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 420,
+            "salesQty": 300,
+            "salesValue": 57000,
+            "buyValue": 35700,
+            "sellThroughRate": 71.4,
+            "stockQty": 120
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 280,
+            "salesQty": 190,
+            "salesValue": 36100,
+            "buyValue": 23800,
+            "sellThroughRate": 67.9,
+            "stockQty": 90
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 220,
+            "salesQty": 145,
+            "salesValue": 27550,
+            "buyValue": 18700,
+            "sellThroughRate": 65.9,
+            "stockQty": 75
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 180,
+            "salesQty": 115,
+            "salesValue": 21850,
+            "buyValue": 15300,
+            "sellThroughRate": 63.9,
+            "stockQty": 65
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 150,
+            "salesQty": 96,
+            "salesValue": 18240,
+            "buyValue": 12750,
+            "sellThroughRate": 64,
+            "stockQty": 54
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 150,
+            "salesQty": 90,
+            "salesValue": 17100,
+            "buyValue": 12750,
+            "sellThroughRate": 60,
+            "stockQty": 60
+          }
+        ]
+      },
+      {
+        "id": "prod-014",
+        "sku": "JI4921",
+        "name": "SL 72 OG RETRO RUNNER",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Unisex",
+        "category": "Terrace & Classics",
+        "productType": "Retro Running Shoes",
+        "salesLine": "SL 72",
+        "color": "Bleu/Blanc",
+        "imageUrl": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 100,
+        "wholesalePrice": 45,
+        "totalBuyQty": 2400,
+        "totalBuyValue": 108000,
+        "totalSalesQty": 2184,
+        "totalSalesValue": 218400,
+        "sellThroughRate": 91,
+        "valueSellThroughRate": 202.2,
+        "stockQty": 216,
+        "stockValue": 9720,
+        "grossMarginValue": 120120,
+        "grossMarginRate": 55,
+        "sizes": [
+          {
+            "size": "38",
+            "buyQty": 280,
+            "salesQty": 260,
+            "sellThroughRate": 92.9,
+            "stockQty": 20,
+            "salesShare": 11.9,
+            "buyShare": 11.7
+          },
+          {
+            "size": "39 1/3",
+            "buyQty": 420,
+            "salesQty": 395,
+            "sellThroughRate": 94,
+            "stockQty": 25,
+            "salesShare": 18.1,
+            "buyShare": 17.5
+          },
+          {
+            "size": "40",
+            "buyQty": 550,
+            "salesQty": 520,
+            "sellThroughRate": 94.5,
+            "stockQty": 30,
+            "salesShare": 23.8,
+            "buyShare": 22.9
+          },
+          {
+            "size": "41 1/3",
+            "buyQty": 520,
+            "salesQty": 480,
+            "sellThroughRate": 92.3,
+            "stockQty": 40,
+            "salesShare": 22,
+            "buyShare": 21.7
+          },
+          {
+            "size": "42",
+            "buyQty": 400,
+            "salesQty": 360,
+            "sellThroughRate": 90,
+            "stockQty": 40,
+            "salesShare": 16.5,
+            "buyShare": 16.7
+          },
+          {
+            "size": "43 1/3",
+            "buyQty": 230,
+            "salesQty": 169,
+            "sellThroughRate": 73.5,
+            "stockQty": 61,
+            "salesShare": 7.7,
+            "buyShare": 9.6
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 650,
+            "salesQty": 610,
+            "salesValue": 61000,
+            "buyValue": 29250,
+            "sellThroughRate": 93.8,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 550,
+            "salesQty": 510,
+            "salesValue": 51000,
+            "buyValue": 24750,
+            "sellThroughRate": 92.7,
+            "stockQty": 40
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 320,
+            "salesQty": 290,
+            "salesValue": 29000,
+            "buyValue": 14400,
+            "sellThroughRate": 90.6,
+            "stockQty": 30
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 280,
+            "salesQty": 248,
+            "salesValue": 24800,
+            "buyValue": 12600,
+            "sellThroughRate": 88.6,
+            "stockQty": 32
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 220,
+            "salesQty": 195,
+            "salesValue": 19500,
+            "buyValue": 9900,
+            "sellThroughRate": 88.6,
+            "stockQty": 25
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 190,
+            "salesQty": 171,
+            "salesValue": 17100,
+            "buyValue": 8550,
+            "sellThroughRate": 90,
+            "stockQty": 19
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 190,
+            "salesQty": 160,
+            "salesValue": 16000,
+            "buyValue": 8550,
+            "sellThroughRate": 84.2,
+            "stockQty": 30
+          }
+        ]
+      },
+      {
+        "id": "prod-015",
+        "sku": "IP0495",
+        "name": "ADICOLOR 3-STRIPES TEE",
+        "division": "Apparel",
+        "sport": "Originals",
+        "gender": "Men",
+        "category": "Lifestyle Apparel",
+        "productType": "T-Shirts & Tops",
+        "salesLine": "Adicolor",
+        "color": "Rouge",
+        "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 35,
+        "wholesalePrice": 14,
+        "totalBuyQty": 4200,
+        "totalBuyValue": 58800,
+        "totalSalesQty": 3654,
+        "totalSalesValue": 127890,
+        "sellThroughRate": 87,
+        "valueSellThroughRate": 217.5,
+        "stockQty": 546,
+        "stockValue": 7644,
+        "grossMarginValue": 76734,
+        "grossMarginRate": 60,
+        "sizes": [
+          {
+            "size": "XS",
+            "buyQty": 300,
+            "salesQty": 240,
+            "sellThroughRate": 80,
+            "stockQty": 60,
+            "salesShare": 6.6,
+            "buyShare": 7.1
+          },
+          {
+            "size": "S",
+            "buyQty": 950,
+            "salesQty": 870,
+            "sellThroughRate": 91.6,
+            "stockQty": 80,
+            "salesShare": 23.8,
+            "buyShare": 22.6
+          },
+          {
+            "size": "M",
+            "buyQty": 1500,
+            "salesQty": 1380,
+            "sellThroughRate": 92,
+            "stockQty": 120,
+            "salesShare": 37.8,
+            "buyShare": 35.7
+          },
+          {
+            "size": "L",
+            "buyQty": 1050,
+            "salesQty": 920,
+            "sellThroughRate": 87.6,
+            "stockQty": 130,
+            "salesShare": 25.2,
+            "buyShare": 25
+          },
+          {
+            "size": "XL",
+            "buyQty": 400,
+            "salesQty": 244,
+            "sellThroughRate": 61,
+            "stockQty": 156,
+            "salesShare": 6.7,
+            "buyShare": 9.5
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 1100,
+            "salesQty": 990,
+            "salesValue": 34650,
+            "buyValue": 15400,
+            "sellThroughRate": 90,
+            "stockQty": 110
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 950,
+            "salesQty": 845,
+            "salesValue": 29575,
+            "buyValue": 13300,
+            "sellThroughRate": 88.9,
+            "stockQty": 105
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 550,
+            "salesQty": 480,
+            "salesValue": 16800,
+            "buyValue": 7700,
+            "sellThroughRate": 87.3,
+            "stockQty": 70
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 550,
+            "salesQty": 475,
+            "salesValue": 16625,
+            "buyValue": 7700,
+            "sellThroughRate": 86.4,
+            "stockQty": 75
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 380,
+            "salesQty": 320,
+            "salesValue": 11200,
+            "buyValue": 5320,
+            "sellThroughRate": 84.2,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 320,
+            "salesQty": 274,
+            "salesValue": 9590,
+            "buyValue": 4480,
+            "sellThroughRate": 85.6,
+            "stockQty": 46
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 350,
+            "salesQty": 270,
+            "salesValue": 9450,
+            "buyValue": 4900,
+            "sellThroughRate": 77.1,
+            "stockQty": 80
+          }
+        ]
+      },
+      {
+        "id": "prod-016",
+        "sku": "IU3920",
+        "name": "TERREX MULTI RAIN.RDY JACKET",
+        "division": "Apparel",
+        "sport": "Outdoor",
+        "gender": "Women",
+        "category": "Weather Protection",
+        "productType": "Waterproof Jackets",
+        "salesLine": "Terrex",
+        "color": "Vert",
+        "imageUrl": "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 140,
+        "wholesalePrice": 62,
+        "totalBuyQty": 950,
+        "totalBuyValue": 58900,
+        "totalSalesQty": 684,
+        "totalSalesValue": 95760,
+        "sellThroughRate": 72,
+        "valueSellThroughRate": 162.6,
+        "stockQty": 266,
+        "stockValue": 16492,
+        "grossMarginValue": 53352,
+        "grossMarginRate": 55.7,
+        "sizes": [
+          {
+            "size": "XS",
+            "buyQty": 150,
+            "salesQty": 105,
+            "sellThroughRate": 70,
+            "stockQty": 45,
+            "salesShare": 15.4,
+            "buyShare": 15.8
+          },
+          {
+            "size": "S",
+            "buyQty": 350,
+            "salesQty": 280,
+            "sellThroughRate": 80,
+            "stockQty": 70,
+            "salesShare": 40.9,
+            "buyShare": 36.8
+          },
+          {
+            "size": "M",
+            "buyQty": 300,
+            "salesQty": 225,
+            "sellThroughRate": 75,
+            "stockQty": 75,
+            "salesShare": 32.9,
+            "buyShare": 31.6
+          },
+          {
+            "size": "L",
+            "buyQty": 150,
+            "salesQty": 74,
+            "sellThroughRate": 49.3,
+            "stockQty": 76,
+            "salesShare": 10.8,
+            "buyShare": 15.8
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 260,
+            "salesQty": 200,
+            "salesValue": 28000,
+            "buyValue": 16120,
+            "sellThroughRate": 76.9,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 200,
+            "salesQty": 145,
+            "salesValue": 20300,
+            "buyValue": 12400,
+            "sellThroughRate": 72.5,
+            "stockQty": 55
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 180,
+            "salesQty": 135,
+            "salesValue": 18900,
+            "buyValue": 11160,
+            "sellThroughRate": 75,
+            "stockQty": 45
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 100,
+            "salesQty": 62,
+            "salesValue": 8680,
+            "buyValue": 6200,
+            "sellThroughRate": 62,
+            "stockQty": 38
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 90,
+            "salesQty": 60,
+            "salesValue": 8400,
+            "buyValue": 5580,
+            "sellThroughRate": 66.7,
+            "stockQty": 30
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 60,
+            "salesQty": 42,
+            "salesValue": 5880,
+            "buyValue": 3720,
+            "sellThroughRate": 70,
+            "stockQty": 18
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 60,
+            "salesQty": 40,
+            "salesValue": 5600,
+            "buyValue": 3720,
+            "sellThroughRate": 66.7,
+            "stockQty": 20
+          }
+        ]
+      },
+      {
+        "id": "prod-017",
+        "sku": "JH4819",
+        "name": "PREDATOR CLUB SHIN GUARDS",
+        "division": "Accessories",
+        "sport": "Football",
+        "gender": "Kids",
+        "category": "Protection & Hardware",
+        "productType": "Shin Guards",
+        "salesLine": "Predator",
+        "color": "Noir/Rouge",
+        "imageUrl": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 15,
+        "wholesalePrice": 5.5,
+        "totalBuyQty": 3500,
+        "totalBuyValue": 19250,
+        "totalSalesQty": 3115,
+        "totalSalesValue": 46725,
+        "sellThroughRate": 89,
+        "valueSellThroughRate": 242.7,
+        "stockQty": 385,
+        "stockValue": 2117.5,
+        "grossMarginValue": 29592.5,
+        "grossMarginRate": 63.3,
+        "sizes": [
+          {
+            "size": "XS (Kids)",
+            "buyQty": 1100,
+            "salesQty": 980,
+            "sellThroughRate": 89.1,
+            "stockQty": 120,
+            "salesShare": 31.5,
+            "buyShare": 31.4
+          },
+          {
+            "size": "S (Junior)",
+            "buyQty": 1400,
+            "salesQty": 1280,
+            "sellThroughRate": 91.4,
+            "stockQty": 120,
+            "salesShare": 41.1,
+            "buyShare": 40
+          },
+          {
+            "size": "M (Youth)",
+            "buyQty": 1000,
+            "salesQty": 855,
+            "sellThroughRate": 85.5,
+            "stockQty": 145,
+            "salesShare": 27.4,
+            "buyShare": 28.6
+          }
+        ],
+        "stores": [
+          {
+            "storeId": "store-1",
+            "storeName": "Paris - Champs-Élysées (Flagship)",
+            "buyQty": 900,
+            "salesQty": 820,
+            "salesValue": 12300,
+            "buyValue": 4950,
+            "sellThroughRate": 91.1,
+            "stockQty": 80
+          },
+          {
+            "storeId": "store-2",
+            "storeName": "Paris - Forum des Halles",
+            "buyQty": 750,
+            "salesQty": 680,
+            "salesValue": 10200,
+            "buyValue": 4125,
+            "sellThroughRate": 90.7,
+            "stockQty": 70
+          },
+          {
+            "storeId": "store-3",
+            "storeName": "Lyon - Centre Part-Dieu",
+            "buyQty": 550,
+            "salesQty": 490,
+            "salesValue": 7350,
+            "buyValue": 3025,
+            "sellThroughRate": 89.1,
+            "stockQty": 60
+          },
+          {
+            "storeId": "store-4",
+            "storeName": "Marseille - Prado Shopping",
+            "buyQty": 500,
+            "salesQty": 445,
+            "salesValue": 6675,
+            "buyValue": 2750,
+            "sellThroughRate": 89,
+            "stockQty": 55
+          },
+          {
+            "storeId": "store-5",
+            "storeName": "Lille - Westfield Euralille",
+            "buyQty": 350,
+            "salesQty": 305,
+            "salesValue": 4575,
+            "buyValue": 1925,
+            "sellThroughRate": 87.1,
+            "stockQty": 45
+          },
+          {
+            "storeId": "store-6",
+            "storeName": "Bordeaux - Rue Sainte-Catherine",
+            "buyQty": 250,
+            "salesQty": 215,
+            "salesValue": 3225,
+            "buyValue": 1375,
+            "sellThroughRate": 86,
+            "stockQty": 35
+          },
+          {
+            "storeId": "store-7",
+            "storeName": "E-Commerce France & App",
+            "buyQty": 200,
+            "salesQty": 160,
+            "salesValue": 2400,
+            "buyValue": 1100,
+            "sellThroughRate": 80,
+            "stockQty": 40
+          }
+        ]
+      },
+      {
+        "id": "prod-018",
+        "sku": "IF8294",
+        "name": "STAN SMITH LUX LEATHER",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Unisex",
+        "category": "SHOES",
+        "productType": "Low Cut Sneakers",
+        "salesLine": "Stan Smith",
+        "color": "Blanc/Vert",
+        "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 140,
+        "wholesalePrice": 63,
+        "totalBuyQty": 2200,
+        "totalBuyValue": 138600,
+        "totalSalesQty": 1716,
+        "totalSalesValue": 240240,
+        "sellThroughRate": 78,
+        "valueSellThroughRate": 173.3,
+        "stockQty": 484,
+        "stockValue": 30492,
+        "grossMarginValue": 132132,
+        "grossMarginRate": 55,
+        "sizes": [
+          {
+            "size": "38",
+            "buyQty": 250,
+            "salesQty": 200,
+            "sellThroughRate": 80,
+            "stockQty": 50,
+            "salesShare": 11.7,
+            "buyShare": 11.4
+          },
+          {
+            "size": "39 1/3",
+            "buyQty": 350,
+            "salesQty": 290,
+            "sellThroughRate": 82.9,
+            "stockQty": 60,
+            "salesShare": 16.9,
+            "buyShare": 15.9
+          },
+          {
+            "size": "40",
+            "buyQty": 450,
+            "salesQty": 370,
+            "sellThroughRate": 82.2,
+            "stockQty": 80,
+            "salesShare": 21.6,
+            "buyShare": 20.5
+          },
+          {
+            "size": "41 1/3",
+            "buyQty": 450,
+            "salesQty": 360,
+            "sellThroughRate": 80,
+            "stockQty": 90,
+            "salesShare": 21,
+            "buyShare": 20.5
+          },
+          {
+            "size": "42",
+            "buyQty": 400,
+            "salesQty": 310,
+            "sellThroughRate": 77.5,
+            "stockQty": 90,
+            "salesShare": 18.1,
+            "buyShare": 18.2
+          },
+          {
+            "size": "43 1/3",
+            "buyQty": 300,
+            "salesQty": 186,
+            "sellThroughRate": 62,
+            "stockQty": 114,
+            "salesShare": 10.8,
+            "buyShare": 13.6
+          }
+        ]
+      },
+      {
+        "id": "prod-019",
+        "sku": "FS0368",
+        "name": "TIRO PRO MATCH BALL",
+        "division": "Accessories",
+        "sport": "Football",
+        "gender": "Unisex",
+        "category": "HARDWARE / ACCESSORIES",
+        "productType": "Match Ball",
+        "salesLine": "Tiro",
+        "color": "Blanc/Bleu",
+        "imageUrl": "https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 140,
+        "wholesalePrice": 50,
+        "totalBuyQty": 850,
+        "totalBuyValue": 42500,
+        "totalSalesQty": 790,
+        "totalSalesValue": 110600,
+        "sellThroughRate": 92.9,
+        "valueSellThroughRate": 260.2,
+        "stockQty": 60,
+        "stockValue": 3000,
+        "grossMarginValue": 71100,
+        "grossMarginRate": 64.3,
+        "sizes": [
+          {
+            "size": "Taille 4",
+            "buyQty": 250,
+            "salesQty": 225,
+            "sellThroughRate": 90,
+            "stockQty": 25,
+            "salesShare": 28.5,
+            "buyShare": 29.4
+          },
+          {
+            "size": "Taille 5 (Officiel)",
+            "buyQty": 600,
+            "salesQty": 565,
+            "sellThroughRate": 94.2,
+            "stockQty": 35,
+            "salesShare": 71.5,
+            "buyShare": 70.6
+          }
+        ]
+      },
+      {
+        "id": "prod-020",
+        "sku": "IB9180",
+        "name": "ADICOLOR ARCHIVE BACKPACK",
+        "division": "Accessories",
+        "sport": "Originals",
+        "gender": "Unisex",
+        "category": "HARDWARE / ACCESSORIES",
+        "productType": "Backpack",
+        "salesLine": "Adicolor",
+        "color": "Noir",
+        "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 120,
+        "wholesalePrice": 42,
+        "totalBuyQty": 1200,
+        "totalBuyValue": 50400,
+        "totalSalesQty": 1080,
+        "totalSalesValue": 129600,
+        "sellThroughRate": 90,
+        "valueSellThroughRate": 257.1,
+        "stockQty": 120,
+        "stockValue": 5040,
+        "grossMarginValue": 84240,
+        "grossMarginRate": 65,
+        "sizes": [
+          {
+            "size": "Taille Unique",
+            "buyQty": 1200,
+            "salesQty": 1080,
+            "sellThroughRate": 90,
+            "stockQty": 120,
+            "salesShare": 100,
+            "buyShare": 100
+          }
+        ]
+      },
+      {
+        "id": "prod-021",
+        "sku": "IE3675",
+        "name": "SAMBA OG JUNIOR",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Kids",
+        "ageGroup": "JUNIOR",
+        "category": "SHOES",
+        "productType": "SHOES - LOW (NON FOOTBALL)",
+        "salesLine": "SAMBA",
+        "color": "Blanc/Noir",
+        "currency": "DT",
+        "imageUrl": "https://i.ibb.co/xK3ykXHy/B75806-16-FOOTWEAR-ZIP-Turntable-3d-1-white.png",
+        "retailPrice": 280,
+        "wholesalePrice": 28,
+        "totalBuyQty": 15,
+        "totalBuyValue": 420,
+        "totalSalesQty": 14,
+        "totalSalesValue": 3920,
+        "sellThroughRate": 93.3,
+        "valueSellThroughRate": 933.3,
+        "stockQty": 1,
+        "stockValue": 28,
+        "grossMarginValue": 3528,
+        "grossMarginRate": 90,
+        "sizes": [
+          {
+            "size": "35",
+            "buyQty": 5,
+            "salesQty": 5,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 35.7,
+            "buyShare": 33.3
+          },
+          {
+            "size": "36",
+            "buyQty": 5,
+            "salesQty": 5,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 35.7,
+            "buyShare": 33.3
+          },
+          {
+            "size": "37 1/3",
+            "buyQty": 5,
+            "salesQty": 4,
+            "sellThroughRate": 80,
+            "stockQty": 1,
+            "salesShare": 28.6,
+            "buyShare": 33.3
+          }
+        ]
+      },
+      {
+        "id": "prod-022",
+        "sku": "IE0876",
+        "name": "SAMBA OG WOMEN",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Women",
+        "ageGroup": "ADULT",
+        "category": "SHOES",
+        "productType": "SHOES - LOW (NON FOOTBALL)",
+        "salesLine": "SAMBA",
+        "color": "Argent/Blanc",
+        "currency": "DT",
+        "imageUrl": "https://i.ibb.co/8gP5d9tM/B75807-16-FOOTWEAR-ZIP-Turntable-3d-1-white.png",
+        "retailPrice": 449,
+        "wholesalePrice": 40.6,
+        "totalBuyQty": 12,
+        "totalBuyValue": 487.2,
+        "totalSalesQty": 11,
+        "totalSalesValue": 4939,
+        "sellThroughRate": 91.7,
+        "valueSellThroughRate": 1013.7,
+        "stockQty": 1,
+        "stockValue": 40.6,
+        "grossMarginValue": 4492.4,
+        "grossMarginRate": 91,
+        "sizes": [
+          {
+            "size": "36",
+            "buyQty": 3,
+            "salesQty": 3,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 27.3,
+            "buyShare": 25
+          },
+          {
+            "size": "37 1/3",
+            "buyQty": 4,
+            "salesQty": 4,
+            "sellThroughRate": 100,
+            "stockQty": 0,
+            "salesShare": 36.4,
+            "buyShare": 33.3
+          },
+          {
+            "size": "38",
+            "buyQty": 5,
+            "salesQty": 4,
+            "sellThroughRate": 80,
+            "stockQty": 1,
+            "salesShare": 36.4,
+            "buyShare": 41.7
+          }
+        ]
+      },
+      {
+        "id": "prod-023",
+        "sku": "IF8871",
+        "name": "PREDATOR ELITE JUNIOR FG",
+        "division": "Footwear",
+        "sport": "Football",
+        "gender": "Kids",
+        "ageGroup": "JUNIOR",
+        "category": "Junior Cleats",
+        "productType": "Firm Ground Cleats",
+        "salesLine": "Predator",
+        "color": "Noir/Rouge",
+        "imageUrl": "https://images.unsplash.com/photo-1511886929837-354d827aae26?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 160,
+        "wholesalePrice": 65,
+        "totalBuyQty": 500,
+        "totalBuyValue": 32500,
+        "totalSalesQty": 440,
+        "totalSalesValue": 70400,
+        "sellThroughRate": 88,
+        "valueSellThroughRate": 216.6,
+        "stockQty": 60,
+        "stockValue": 3900,
+        "grossMarginValue": 41800,
+        "grossMarginRate": 59.4,
+        "sizes": [
+          {
+            "size": "35",
+            "buyQty": 150,
+            "salesQty": 135,
+            "sellThroughRate": 90,
+            "stockQty": 15,
+            "salesShare": 30.7,
+            "buyShare": 30
+          },
+          {
+            "size": "36",
+            "buyQty": 200,
+            "salesQty": 180,
+            "sellThroughRate": 90,
+            "stockQty": 20,
+            "salesShare": 40.9,
+            "buyShare": 40
+          },
+          {
+            "size": "37 1/3",
+            "buyQty": 150,
+            "salesQty": 125,
+            "sellThroughRate": 83.3,
+            "stockQty": 25,
+            "salesShare": 28.4,
+            "buyShare": 30
+          }
+        ]
+      },
+      {
+        "id": "prod-024",
+        "sku": "IE4892",
+        "name": "CODECHAOS 25 BOA GOLF SHOES",
+        "division": "Footwear",
+        "sport": "Golf",
+        "gender": "Men",
+        "ageGroup": "ADULT",
+        "category": "Golf Footwear",
+        "productType": "Golf Spikeless Shoes",
+        "salesLine": "Codechaos",
+        "color": "Blanc/Bleu",
+        "imageUrl": "https://images.unsplash.com/photo-1587174486073-ae5e5cff23aa?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 200,
+        "wholesalePrice": 85,
+        "totalBuyQty": 300,
+        "totalBuyValue": 25500,
+        "totalSalesQty": 240,
+        "totalSalesValue": 48000,
+        "sellThroughRate": 80,
+        "valueSellThroughRate": 188.2,
+        "stockQty": 60,
+        "stockValue": 5100,
+        "grossMarginValue": 27600,
+        "grossMarginRate": 57.5,
+        "sizes": [
+          {
+            "size": "41 1/3",
+            "buyQty": 60,
+            "salesQty": 50,
+            "sellThroughRate": 83.3,
+            "stockQty": 10,
+            "salesShare": 20.8,
+            "buyShare": 20
+          },
+          {
+            "size": "42",
+            "buyQty": 100,
+            "salesQty": 85,
+            "sellThroughRate": 85,
+            "stockQty": 15,
+            "salesShare": 35.4,
+            "buyShare": 33.3
+          },
+          {
+            "size": "43 1/3",
+            "buyQty": 80,
+            "salesQty": 65,
+            "sellThroughRate": 81.3,
+            "stockQty": 15,
+            "salesShare": 27.1,
+            "buyShare": 26.7
+          },
+          {
+            "size": "44",
+            "buyQty": 60,
+            "salesQty": 40,
+            "sellThroughRate": 66.7,
+            "stockQty": 20,
+            "salesShare": 16.7,
+            "buyShare": 20
+          }
+        ]
+      },
+      {
+        "id": "prod-025",
+        "sku": "IN2941",
+        "name": "ULTIMATE365 GOLF POLO",
+        "division": "Apparel",
+        "sport": "Golf",
+        "gender": "Men",
+        "ageGroup": "ADULT",
+        "category": "Golf Apparel",
+        "productType": "Polo Shirts",
+        "salesLine": "Ultimate365",
+        "color": "Bleu Marine",
+        "imageUrl": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 75,
+        "wholesalePrice": 30,
+        "totalBuyQty": 400,
+        "totalBuyValue": 12000,
+        "totalSalesQty": 310,
+        "totalSalesValue": 23250,
+        "sellThroughRate": 77.5,
+        "valueSellThroughRate": 193.8,
+        "stockQty": 90,
+        "stockValue": 2700,
+        "grossMarginValue": 13950,
+        "grossMarginRate": 60,
+        "sizes": [
+          {
+            "size": "S",
+            "buyQty": 80,
+            "salesQty": 60,
+            "sellThroughRate": 75,
+            "stockQty": 20,
+            "salesShare": 19.4,
+            "buyShare": 20
+          },
+          {
+            "size": "M",
+            "buyQty": 150,
+            "salesQty": 125,
+            "sellThroughRate": 83.3,
+            "stockQty": 25,
+            "salesShare": 40.3,
+            "buyShare": 37.5
+          },
+          {
+            "size": "L",
+            "buyQty": 120,
+            "salesQty": 95,
+            "sellThroughRate": 79.2,
+            "stockQty": 25,
+            "salesShare": 30.6,
+            "buyShare": 30
+          },
+          {
+            "size": "XL",
+            "buyQty": 50,
+            "salesQty": 30,
+            "sellThroughRate": 60,
+            "stockQty": 20,
+            "salesShare": 9.7,
+            "buyShare": 12.5
+          }
+        ]
+      },
+      {
+        "id": "prod-026",
+        "sku": "IE1029",
+        "name": "SUPERSTAR 360 INFANT",
+        "division": "Footwear",
+        "sport": "Originals",
+        "gender": "Infant",
+        "ageGroup": "INFANT",
+        "category": "Infant Footwear",
+        "productType": "Slip-on Shoes",
+        "salesLine": "Superstar",
+        "color": "Blanc/Noir",
+        "imageUrl": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 50,
+        "wholesalePrice": 20,
+        "totalBuyQty": 350,
+        "totalBuyValue": 7000,
+        "totalSalesQty": 315,
+        "totalSalesValue": 15750,
+        "sellThroughRate": 90,
+        "valueSellThroughRate": 225,
+        "stockQty": 35,
+        "stockValue": 700,
+        "grossMarginValue": 9450,
+        "grossMarginRate": 60,
+        "sizes": [
+          {
+            "size": "20",
+            "buyQty": 70,
+            "salesQty": 65,
+            "sellThroughRate": 92.9,
+            "stockQty": 5,
+            "salesShare": 20.6,
+            "buyShare": 20
+          },
+          {
+            "size": "22",
+            "buyQty": 120,
+            "salesQty": 110,
+            "sellThroughRate": 91.7,
+            "stockQty": 10,
+            "salesShare": 34.9,
+            "buyShare": 34.3
+          },
+          {
+            "size": "24",
+            "buyQty": 100,
+            "salesQty": 90,
+            "sellThroughRate": 90,
+            "stockQty": 10,
+            "salesShare": 28.6,
+            "buyShare": 28.6
+          },
+          {
+            "size": "26",
+            "buyQty": 60,
+            "salesQty": 50,
+            "sellThroughRate": 83.3,
+            "stockQty": 10,
+            "salesShare": 15.9,
+            "buyShare": 17.1
+          }
+        ]
+      },
+      {
+        "id": "prod-027",
+        "sku": "IX3021",
+        "name": "ADICOLOR TREFOIL INFANT TRACKSUIT",
+        "division": "Apparel",
+        "sport": "Originals",
+        "gender": "Infant",
+        "ageGroup": "INFANT",
+        "category": "Infant Apparel",
+        "productType": "Tracksuits",
+        "salesLine": "Adicolor",
+        "color": "Bleu",
+        "imageUrl": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80",
+        "retailPrice": 55,
+        "wholesalePrice": 22,
+        "totalBuyQty": 250,
+        "totalBuyValue": 5500,
+        "totalSalesQty": 210,
+        "totalSalesValue": 11550,
+        "sellThroughRate": 84,
+        "valueSellThroughRate": 210,
+        "stockQty": 40,
+        "stockValue": 880,
+        "grossMarginValue": 6930,
+        "grossMarginRate": 60,
+        "sizes": [
+          {
+            "size": "3-6M",
+            "buyQty": 60,
+            "salesQty": 52,
+            "sellThroughRate": 86.7,
+            "stockQty": 8,
+            "salesShare": 24.8,
+            "buyShare": 24
+          },
+          {
+            "size": "6-9M",
+            "buyQty": 80,
+            "salesQty": 70,
+            "sellThroughRate": 87.5,
+            "stockQty": 10,
+            "salesShare": 33.3,
+            "buyShare": 32
+          },
+          {
+            "size": "9-12M",
+            "buyQty": 60,
+            "salesQty": 50,
+            "sellThroughRate": 83.3,
+            "stockQty": 10,
+            "salesShare": 23.8,
+            "buyShare": 24
+          },
+          {
+            "size": "12-18M",
+            "buyQty": 50,
+            "salesQty": 38,
+            "sellThroughRate": 76,
+            "stockQty": 12,
+            "salesShare": 18.1,
+            "buyShare": 20
+          }
+        ]
+      }
+    ]
+  }
+}

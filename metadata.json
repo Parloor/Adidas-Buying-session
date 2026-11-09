@@ -1,0 +1,8 @@
+{
+  "name": "Remix Adidas Buying Session FW25 - Performance \u0026 Merchandising Dashboard",
+  "description": "Tableau de bord interactif pour la session d\u0027achats Adidas FW25 : analyse en temps réel des ventes et achats, palmarès produits, courbes de tailles et ventilation par point de vente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
